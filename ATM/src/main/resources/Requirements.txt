@@ -1,0 +1,9 @@
+1. ATM machine can read user's card.
+2. Keypad for user input e.g PIN NUMBER.
+3. Screen to display message.
+4. Cash dispenser to dispense cash.
+5. Printer to print receipts (transactions).
+
+Transactions
+1. Balance Inquiry
+2. Withdraw Cash
