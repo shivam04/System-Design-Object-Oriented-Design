@@ -1,0 +1,18 @@
+Splitwise
+Given a data set with details pertaining to amount that one person owes to the other in the form of csv
+Sample Input, Friend 1, Friend 2, Amount
+M, N, 20
+L, M, 70
+N, L, 40
+N, K, 100
+
+Row 1 implies that M owes 20 Rs to N
+Row 2 implies that L owes 70 Rs to M
+Similar to other rows
+
+Given the above info, design a solution to derive the below-mentioned insights :
+
+How much debt does each person owe to all users?
+How much money is a person owed ?
+Who is the person with the most debt ?
+Who is the person with the most money owed ?
